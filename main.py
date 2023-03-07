@@ -1,3 +1,5 @@
+# Francesca Chalfoun, COP2502C
+
 def password_encoder(decoded_password):
     decoded_password_list = list(decoded_password)
     encoded_password = ''
